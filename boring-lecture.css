@@ -1,14 +1,26 @@
-h2.intro {
+.intro {
 
   font-style: italic;
 }
 
-p.intro {
-
+p.intro{
   text-align: center;
+  color: red;
 }
 
 img.intro {
 
  border-radius: 50%
+}
+
+.bold {
+
+  font-weight: bold;
+
+}
+
+.italic {
+
+  font-style: italic;
+  
 }
